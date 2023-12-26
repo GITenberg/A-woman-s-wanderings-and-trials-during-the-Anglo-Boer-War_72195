@@ -1,0 +1,42 @@
+_repo: A-woman-s-wanderings-and-trials-during-the-Anglo-Boer-War_72195
+_version: 0.0.1
+alternative_title: Herinneringen. English
+contributor:
+  translator:
+    agent_name: Hotz, Lucy
+    gutenberg_agent_id: '56589'
+    url: http://www.gutenberg.org/2009/agents/56589
+creator:
+  author:
+    agent_name: De la Rey, Jacoba Elizabeth
+    aliases:
+    - La Rey, Jacoba Elizabeth de
+    - Rey, Jacoba Elizabeth de la
+    - Greeff, Jacoba Elizabeth
+    - De la Rey, Nonnie
+    birthdate: 1856
+    deathdate: 1923
+    gutenberg_agent_id: '56588'
+    url: http://www.gutenberg.org/2009/agents/56588
+description: ''
+gutenberg_issued: '2023-11-22'
+identifiers:
+  gutenberg: '72195'
+language: en
+pgterms:marc904: https://archive.org/details/womanswanderings00reyj/page/n9/mode/2up
+pgterms:marc905: 20221002141955delarey
+pgterms:marc906: '1903'
+pgterms:marc907: GB
+production_note: The Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aLondon :$bT. Fisher Unwin, $c1903.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'South African War, 1899-1902 -- Personal narratives'
+- !lcsh 'De La Rey, Jacoba Elizabeth, 1856-1923'
+- !lcc 'DT'
+- GITenberg
+title: A woman's wanderings and trials during the Anglo-Boer War
+url: http://www.gutenberg.org/ebooks/72195
